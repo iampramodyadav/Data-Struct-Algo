@@ -13,4 +13,8 @@
 -  - Bitwise operators
 -  [bitwise operators examples](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/bitwise-operators-examples.ipynb)
 -  [DSA](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/Python-DSA.ipynb)
+-  - Algorithm Analysis
+-  - Array
+-  - Stacks, Queues, and Deques
+-  - Linked List
 - [Example with improved algorithm](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/daily_practice_problem.md)
