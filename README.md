@@ -1,3 +1,6 @@
+
+- [DSA Problems Solution](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/DSA_problems.ipynb)
+  
 # Data-Struct-Algo
 
 - [Object-Oriented Programming](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/Object-Oriented%20Programming.ipynb)
